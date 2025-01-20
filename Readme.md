@@ -1,1 +1,5 @@
-TEST 입니다 - 
+# GITHUB + SOURCETREE TEST 중입니다 - 
+
+```
+V0.0 INIT
+```
